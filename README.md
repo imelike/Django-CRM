@@ -109,8 +109,4 @@ class ShippingAddress(models.Model):
 ### Create User
 Now we can create a user and login to make sure all our models were properly registered.
 
-### Now we can create a user and login to make sure all our models were properly registered.
-Go ahead and create a few products from the admin panel.
-
-
 ![img_1.png](img_1.png)
